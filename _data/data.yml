@@ -36,12 +36,9 @@ sidebar:
       info:
         - item: Google Data Analytics Professional Certificate
           link: "https://www.credly.com/badges/4a0bedd9-e06c-431a-ad09-ec8dac080bf1/public_url"
-        - item: Customer Analytics - Wharton Online
-          link: "https://coursera.org/share/4f4a81e03b3e708b8407f5957dcddec3"
-        - item: Operations Analytics - Wharton Online
-          link: "https://coursera.org/share/7acad65f82c9232fda702ef3518fd00c" 
-        - item: People Analytics - Wharton Online
-          link: "https://coursera.org/share/455dc0c50d42aedbdcc45402fc4080f0"
+        - item: Business Analytics - Wharton Online
+          link: "https://coursera.org/share/9f25274873c6308239d831d0bd53e2d3"
+    
 education:
     title: Education
     info:
