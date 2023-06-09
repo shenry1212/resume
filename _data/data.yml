@@ -52,7 +52,7 @@ education:
 experiences:
     title: Experience
     info:
-     - role: Business Analytics Specialization Certificate - Wharton Online
+      - role: Business Analytics Specialization Certificate - Wharton Online
         time: April 2023 - June 2023
         company: Online
         details: |
