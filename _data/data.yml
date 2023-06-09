@@ -52,6 +52,11 @@ education:
 experiences:
     title: Experience
     info:
+     - role: Business Analytics Specialization Certificate - Wharton Online
+        time: April 2023 - June 2023
+        company: Online
+        details: |
+          Completed extensive five-course certificate hosted by the Wharton Business School detailing customer analytics, operations analytics, people analytics, and accounting analytics. Experienced will utilizing tools to predict customer behavior, modeling supply and demand for various business scenarios, using data for recruiting and performance evaluation, and solving business problems with data-driven decision-making.
       - role: Google Data Analytics Professional Certificate
         time: December 2022 - February 2023
         company: Online
@@ -94,7 +99,7 @@ projects:
         
       - title: Case Study - "The Threat of Online Adblockers"
         link: "https://github.com/shenry1212/resume/blob/3eba08c2865209bd385266bd6ff7dec6d8dbcfa3/assets/images/The%20Threat%20of%20Online%20Adblockers.pdf"
-        tagline: "Business analytics project on combating adblockers for a fictional company. This company is a large digital internet search engine, email/messaging, and internet content company whose business model closely resembles Yahoo in 2015/2016." 
+        tagline: "Business analytics project on combating adblockers for a fictional company. This company is a large digital internet search engine, email/messaging, and internet content company whose business model closely resembles Yahoo’s in 2015/2016. The project also contains 4 application exercises, each from their respective course within the Business Analytics certificate: customer analytics, people analytics, operations analytics, and accounting analytics." 
         
       - title: Academic Paper - "How Did Donald Trump Win the 2016 Election?" (The professor chose the topic)
         link: "https://github.com/shenry1212/resume/blob/master/assets/images/Econ%20173%20Final%20Paper%20-%202016%20Election.pdf"
@@ -121,4 +126,4 @@ skills:
 
 
 footer: >
-    Last updated 2023-03-21
+    Last updated 2023-06-08
