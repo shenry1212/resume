@@ -44,10 +44,10 @@ education:
     info:
       - degree: B.S. in Economics
         university: Santa Clara University
-        time: 2013 - 2018
+        time: Graduated 2018
       - degree: Minor in Mathematics
         university: Santa Clara University
-        time: 2013 - 2018
+        time: Graduated 2018
 
 experiences:
     title: Experience
@@ -126,4 +126,4 @@ skills:
 
 
 footer: >
-    Last updated 2023-06-08
+    Last updated 2023-06-12
