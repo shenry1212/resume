@@ -38,7 +38,9 @@ sidebar:
           link: "https://www.credly.com/badges/4a0bedd9-e06c-431a-ad09-ec8dac080bf1/public_url"
         - item: Business Analytics - Wharton Online
           link: "https://coursera.org/share/9f25274873c6308239d831d0bd53e2d3"
-    
+        - item: Meta Marketing Analytics
+          link: "https://coursera.org/share/b8d939a0d1db79d6c4950d226b7eff7d"    
+          
 education:
     title: Education
     info:
@@ -126,4 +128,4 @@ skills:
 
 
 footer: >
-    Last updated 2023-06-12
+    Last updated 2023-07-15
