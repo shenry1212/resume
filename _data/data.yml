@@ -93,14 +93,14 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Case Study - "Bellabeat Fitness Data Analysis"
-        link: "https://github.com/shenry1212/resume/blob/master/assets/images/Case%20Study%20-%20Bellabeat.pdf"
-        tagline: "Analyzed fitness data for a fictional smart-device company. Analysis was used to gain insights in preparation for a new product rollout."
-        
       - title: Case Study - "The Threat of Online Adblockers"
         link: "https://github.com/shenry1212/resume/blob/3eba08c2865209bd385266bd6ff7dec6d8dbcfa3/assets/images/The%20Threat%20of%20Online%20Adblockers.pdf"
         tagline: "Business analytics project on combating adblockers for a fictional company. This company is a large digital internet search engine, email/messaging, and internet content company whose business model closely resembles Yahoo’s in 2015/2016. The project also contains four application exercises, each from their respective course within the Business Analytics Certificate: customer analytics, people analytics, operations analytics, and accounting analytics." 
-        
+
+      - title: Case Study - "Bellabeat Fitness Data Analysis"
+        link: "https://github.com/shenry1212/resume/blob/master/assets/images/Case%20Study%20-%20Bellabeat.pdf"
+        tagline: "Analyzed fitness data for a fictional smart-device company. Analysis was used to gain insights in preparation for a new product rollout."
+                
       - title: Academic Paper - "How Did Donald Trump Win the 2016 Election?" (The professor chose the topic)
         link: "https://github.com/shenry1212/resume/blob/master/assets/images/Econ%20173%20Final%20Paper%20-%202016%20Election.pdf"
         tagline: "Created multi-variable statistical regressions with RStudio using United States census data and 2016 election data. Voting results were regressed with educational levels by county."   
