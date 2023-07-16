@@ -54,6 +54,15 @@ education:
 experiences:
     title: Experience
     info:
+      - role: Meta Marketing Analytics Professional Certificate
+        time: June 2023 - July 2023
+        company: Online
+        details: |
+          Completed 6 course job-ready certificate designed by Meta. Strong experience with 
+          collecting, sorting, evaluating, and visualizing marketing data. Able to summarize 
+          and analyze data using marketing analytics methods. Confident in designing experiments 
+          and testing hypotheses to evaluate advertising effectiveness. Familiar with Meta Ads 
+          Manager to test ad effectiveness and evaluate results.       
       - role: Business Analytics Certificate - Wharton Online
         time: April 2023 - June 2023
         company: Online
