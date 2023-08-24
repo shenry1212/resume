@@ -13,7 +13,7 @@ sidebar:
     avatar: profile_image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: shenry@scu.edu
+    email: shenry@alumni.scu.edu
     # see resume/_includes/contact.html
     # normally this should be shaun-henry-087913105
     # but hacked the file above so that it links to above but does not display -087913105
@@ -141,4 +141,4 @@ skills:
 
 
 footer: >
-    Last updated 2023-07-20
+    Last updated 2023-08-23
